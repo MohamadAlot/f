@@ -1,0 +1,28 @@
+body {
+  width: 400px;
+  background-color: rgb(183, 190, 194);
+  text-align: center;
+  margin: 50px 600px;
+  padding: 40px;
+  border: 3px solid rgb(255, 145, 0);
+  border-radius: 10px;
+  opacity: 0.9;
+}
+
+img {
+  width: 200px;
+}
+
+html {
+  background-image: url(istockphoto-1063896842-170667a.webp);
+  background-size: cover;
+}
+
+input {
+  border: 3px solid rgb(255, 145, 0);
+}
+
+h1,
+h2 {
+  text-decoration: underline solid rgb(0, 0, 0);
+}
